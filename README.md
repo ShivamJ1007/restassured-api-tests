@@ -2,7 +2,7 @@
 
 API test automation framework built with **Java, REST Assured, TestNG and Maven**, testing the public [Restful-Booker](https://restful-booker.herokuapp.com) practice API.
 
-![Java](https://img.shields.io/badge/Java-17-blue) ![Maven](https://img.shields.io/badge/Maven-build-orange)
+![Java](https://img.shields.io/badge/Java-19-blue) ![Maven](https://img.shields.io/badge/Maven-build-orange)
 
 <!-- After you add GitHub Actions, add the CI badge here:
 ![CI](https://github.com/<your-username>/restassured-api-tests/actions/workflows/tests.yml/badge.svg) -->
